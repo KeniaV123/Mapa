@@ -1,0 +1,12 @@
+#map {
+  height: 400px;
+  width: 100%;
+}
+
+body {
+  background-color: rgb(243, 196, 235);
+}
+
+.btn-primary{
+  background-color: blueviolet;
+}
